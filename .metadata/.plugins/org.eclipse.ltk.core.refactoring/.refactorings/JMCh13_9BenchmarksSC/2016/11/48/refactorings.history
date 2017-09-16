@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JMCh13_9BenchmarksSC/JM13_9Benchmarks 2.xlsx&apos; to &apos;JM13_9Benchmarks.xlsx&apos;" description="Rename resource &apos;JM13_9Benchmarks 2.xlsx&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="JM13_9Benchmarks 2.xlsx" name="JM13_9Benchmarks.xlsx" stamp="1479955588385" updateReferences="true"/>
+</session>
